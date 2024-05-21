@@ -16,7 +16,7 @@ class DerivativeExamplesBlockDerivative extends DeriverBase {
   /**
    * {@inheritdoc}
    */
-  public function getDerivativeDefinitions($base_plugin_definition) {
+  public function getDerivativeDefinitions($base_plugin_definition): array {
 
     // Products can be anything with key, value pair.
     // Here we are defining sample array.
