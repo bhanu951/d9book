@@ -1,5 +1,0 @@
-name: 'Derivative Examples'
-type: module
-description: 'Provides Examples for Derivatives.'
-package: Examples
-core_version_requirement: ^10
